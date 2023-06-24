@@ -1,0 +1,6 @@
+.DS_Store
+.env
+server/node_modules
+web-app/node_modules
+server/pnpm-*.yaml
+web-app/pnpm-*.yaml
